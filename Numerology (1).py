@@ -68,4 +68,3 @@ class Numerology:
             f"Soul:{self.getSoul()}\n"
             
         )
-#fun code, only took me a week to understand. 
