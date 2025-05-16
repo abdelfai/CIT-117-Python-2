@@ -60,4 +60,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-#spent countless hours on this one im sure there alot of errors here and i would greatly appreciate any tips. i  was a little confused on the regards to zip codes, did you want a seperate output for zip codes?  The city type is alphabetical order im not sure how to order it like the way you did honestly other than making a custom order
