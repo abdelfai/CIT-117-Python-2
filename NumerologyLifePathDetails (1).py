@@ -82,4 +82,3 @@ class NumerologyLifePathDetails(Numerology):
         }
         return descriptions.get(self.LifePath)
 
-        #your tips were very useful thank you for that it so much easier to code now i realized my previous was very redundant 
